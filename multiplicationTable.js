@@ -1,5 +1,4 @@
 const multiplicationTable = function (maxValue) {
-  const max = maxValue;
   let arr = [];
   let table = [];
   let multiTable = [];
